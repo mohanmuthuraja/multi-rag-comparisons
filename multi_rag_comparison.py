@@ -588,7 +588,7 @@ def main():
     rag = st.session_state.rag
     
     # Main interface
-    st.header("Ask a Question")
+    st.header("Ask a Question on SE's Health Insurance Policy")
     
     question = st.text_input(
         "Your question:",

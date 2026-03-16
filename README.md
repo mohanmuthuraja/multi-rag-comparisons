@@ -106,7 +106,7 @@ OPENAI_API_KEY=your_openai_api_key
 
 # ▶️ Run the Application
 
-```bash
+```bash (run only this program)
 streamlit run multi_rag_comparison.py
 ```
 
